@@ -36,7 +36,7 @@ export default function SignupPage() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-100 via-indigo-100 to-purple-100 animate-gradient-x">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-200 via-indigo-100 to-purple-100 animate-gradient-x">
       <div className="w-full max-w-md bg-white/90 rounded-2xl shadow-2xl border border-blue-100 p-8 space-y-8 animate-fade-in">
         <h2 className="text-center text-3xl font-extrabold text-blue-700 mb-2 relative inline-block after:content-[''] after:block after:w-16 after:h-1 after:bg-gradient-to-r after:from-blue-400 after:to-purple-400 after:mx-auto after:mt-2">
           Signup
